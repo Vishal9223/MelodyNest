@@ -13,13 +13,13 @@ To run **Music Player** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
+sudo git clone https://github.com/Vishal9223/MelodyNest.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/music-player.git
+git clone https://github.com/Vishal9223/MelodyNest.git
 ```
 
 ### Contact
